@@ -35,4 +35,4 @@ START
         STOP
     END IF
     
-    IF NOT isValidStreet(гудам
+    IF NOT isValidStreet(гудамж)
